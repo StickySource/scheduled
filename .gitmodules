@@ -1,0 +1,21 @@
+[submodule "sticky-scheduled-guice4"]
+	path = sticky-scheduled-guice4
+	url = git@github.com:StickySource/sticky-scheduled-guice4.git
+[submodule "sticky-scheduled-guice3"]
+	path = sticky-scheduled-guice3
+	url = git@github.com:StickySource/sticky-scheduled-guice3.git
+[submodule "sticky-scheduled-spring3"]
+	path = sticky-scheduled-spring3
+	url = git@github.com:StickySource/sticky-scheduled-spring3.git
+[submodule "sticky-scheduled-spring4"]
+	path = sticky-scheduled-spring4
+	url = git@github.com:StickySource/sticky-scheduled-spring4.git
+[submodule "sticky-scheduled-tck"]
+	path = sticky-scheduled-tck
+	url = git@github.com:StickySource/sticky-scheduled-tck.git
+[submodule "sticky-scheduled"]
+	path = sticky-scheduled
+	url = git@github.com:StickySource/sticky-scheduled
+[submodule "sticky-scheduled-api"]
+	path = sticky-scheduled-api
+	url = git@github.com:StickySource/sticky-scheduled-api.git
